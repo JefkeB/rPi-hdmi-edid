@@ -82,6 +82,6 @@ Checksum: 0xd6 (valid)
 
 
 links :  
-https://github.com/tomka/write-edid/blob/master/write-edid.sh  
+https://github.com/tomka/write-edid
 https://github.com/bulletmark/edid-rw  
 https://chalk-elec.com/?p=1905  
